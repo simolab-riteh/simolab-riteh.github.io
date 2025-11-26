@@ -1229,7 +1229,7 @@ h6 = "{h2}.{h3}.{h4}.{h5}.{h6} {title}"
 # FixIt 0.4.0 | CHANGED mathematical formulas configuration
 # See http://fixit.lruihao.cn/documentation/content-management/markdown-syntax/extended/#formula
 [params.page.math]
-enable = true
+enable = false
 # mathematical formulas rendering engines, optional values: ["katex", "mathjax"]
 type = "katex"
 
